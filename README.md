@@ -43,5 +43,7 @@ The model is evaluated with the test data. The loss and accuracy are shown in fi
 
 Some predictions are also been made with the model, and compared with the actual results.
 
+![image](https://user-images.githubusercontent.com/100325884/166852558-a92864ff-6b53-499b-bcf0-e87e40958856.png)
+
 
 
